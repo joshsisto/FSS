@@ -4,7 +4,7 @@ IT Checklists, Best Practices, and Documentation
 Start Here https://cto-security-checklist.sqreen.io/
 
 ## Links
-### Lists
+### Lists of Lists
 + https://github.com/sbilly/awesome-security
 + https://github.com/Hack-with-Github/Awesome-Hacking
 + https://github.com/hslatman/awesome-threat-intelligence
